@@ -1,4 +1,4 @@
 # 限流框架Potus
 
 Potus为微服务应用提供基于QPS和线程并发的限流方式，通过时间片切分的控制算法，能够对应用的访问流量进行削峰，保障应用服务能够快速拒绝自身容量之外的请求，防止系统雪崩。
-![](weifuwujiagou-5.png)
+![](images/weifuwujiagou-5.png)
